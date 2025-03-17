@@ -1,6 +1,6 @@
 # 🚔 SF Crime Analysis Using PySpark  
 **Author:** Kim Jin  
-**Project Type:** Class Homework  
+**Project Type:** Class Project  
 **Date:** Jun. 2024  
 **Dataset:** [San Francisco Police Department Incident Reports](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data)  
 
