@@ -105,10 +105,10 @@ The goal is to **explore crime patterns across categories, districts, and time p
 ---
 
 ## Key Takeaways & Policy Suggestions  
-✔ **Crime is highest in Southern SF; Richmond is relatively safe.**  
-✔ **Theft is the dominant crime, but least likely to be resolved.**  
-✔ **Crime peaks at noon, rush hours, and late at night.**  
-✔ **Policing efforts should focus on crime-heavy time slots (11 AM–1 PM & 4 PM–9 PM).**  
-✔ **Increased surveillance may improve theft and robbery resolution rates.**  
+- **Crime is highest in Southern SF; Richmond is relatively safe.**  
+- **Theft is the dominant crime, but least likely to be resolved.**  
+- **Crime peaks at noon, rush hours, and late at night.**  
+- **Policing efforts should focus on crime-heavy time slots (11 AM–1 PM & 4 PM–9 PM).**  
+- **Increased surveillance may improve theft and robbery resolution rates.**  
 
 ---
